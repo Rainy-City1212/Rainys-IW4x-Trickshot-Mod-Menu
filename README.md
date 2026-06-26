@@ -140,7 +140,7 @@ ADS, Melee, and Use must also be bound normally in your IW4x controls.
 
 ## Credits
 
-* **Rainy City** - IW4x .GSC trickshot menu development, edits, testing, organization, and release.
+* **Rainy City (Rainy-City1212)** - IW4x .GSC trickshot menu development, edits, testing, organization, and release.
 * **SyndiShanX** - creator of the **Synergy MW2 GSC Menu**. Portions of this project were adapted from or directly based on Synergy MW2 GSC Menu code, including some submenu structure and implementation patterns. Synergy was also a major learning reference for IW4x/GSC menu structure, dvars, functions, and general implementation.
 * **ineedbots / Bot Warfare** - creator/community behind Bot Warfare, including the bot system, waypoint/scriptdata foundation, and related bot support used for this setup.
 * **IW4x community** - client, documentation, testing knowledge, and modding resources.
