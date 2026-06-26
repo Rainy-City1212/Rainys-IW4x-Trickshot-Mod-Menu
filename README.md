@@ -51,7 +51,7 @@ This menu was designed primarily with controller use in mind, but keyboard/mouse
 | Go Back       | Melee                        |
 
 > [!NOTE]
-> The full on-screen menu is host-only. Other players may be able to join the private match, but the host controls the main menu.
+> The full on-screen menu is host-only. Other players can join the private match, but the host controls the main mod menu. The host can give certain quick mods to other players through the Player Options submenu. Other players can use the Can Swap bind, Auto Refill Ammo bind, and Save/Load Position binds by default, but additional features must be enabled or given by the host.
 
 ## Quick Binds
 
