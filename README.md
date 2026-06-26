@@ -112,6 +112,7 @@ Note: The menu itself does not automatically force keyboard binds. You may need 
 * Restart Game and End Game options
 * Weapon and camo menus
 * Wallbang/trickshot aimbot options for private use
+* + MANY MORE!
 
 ![Rainy's IW4x .GSC Trickshot Mod Menu - Main Menu](./screenshots/trickshot-mods.png)
 
@@ -123,12 +124,15 @@ Note: The menu itself does not automatically force keyboard binds. You may need 
 * This menu is intended for private matches, not public cheating.
 * Bots climb ladders weirdly. I believe this is from some edits I did for "Bot Combat" in the mod files, but plan to fix this in future release.
 
-Credits
-* Rainy City - IW4x menu development, edits, testing, organization, and release.
-* SyndiShanX - creator of the Synergy MW2 GSC Menu, which indirectly influenced the development of this menu. I learned a lot from studying Synergy’s structure, dvars, functions, and general IW4x/GSC implementation.
-* ineedbots Bot Warfare creator/community - bot system, waypoint/scriptdata foundation, and related bot support.
-* IW4x community - client, documentation, testing knowledge, and modding resources.
-License
+## Credits
+
+* **Rainy City** - IW4x .GSC trickshot menu development, edits, testing, organization, and release.
+* **SyndiShanX** - creator of the **Synergy MW2 GSC Menu**. Synergy was a major learning reference for this project, especially for understanding IW4x/GSC menu structure, dvars, functions, and implementation patterns.
+* **ineedbots / Bot Warfare** - creator/community behind **IW4 Bot Warfare**, including the bot system, waypoint/scriptdata foundation, and related bot support used for this setup.
+* **IW4x community** - client, documentation, testing knowledge, and modding resources.
+
+
+## License
 
 This project is released under the GNU General Public License v3.0.
 
