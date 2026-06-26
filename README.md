@@ -35,8 +35,8 @@ Only use this menu in private matches, offline sessions, or dedicated servers wh
 2. Extract the downloaded .zip file.
 3. Open the extracted folder, then open the mod-files folder.
 4. Copy these three items from inside mod-files:
-    * scripts
-    * scriptdata
+    * scripts (folder)
+    * scriptdata (folder)
     * z_svr_bots.iwd
 5. Paste those three items into your MW2/IW4x userraw folder.
     Example location: MW2 Folder/userraw/
