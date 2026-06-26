@@ -34,8 +34,10 @@ Only use this menu in private matches, offline sessions, or dedicated servers wh
 3. Open the extracted folder.
 4. Copy the contents of the `mod-files` folder into the correct IW4x folder.
 5. Launch IW4x.
-6. Start a private match.
+6. Start a private match. You should immediately see the "Welcome to Rainy's Mod Menu" text pop up on screen if installed correctly.
 7. Open the menu using the listed controls.
+
+![Rainy's IW4x .GSC Trickshot Mod Menu - Main Menu](./screenshots/welcome-screen.png)
 
 ## Menu Navigation
 
