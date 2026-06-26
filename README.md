@@ -140,7 +140,7 @@ ADS, Melee, and Use must also be bound normally in your IW4x controls.
 * Bots climb ladders weirdly. I believe this is from some edits I did for "Bot Combat" in the mod files, but plan to fix this in a future release.
 * When spawning trickshot platforms, they bug out a little bit but they are still usable. In the future I plan to make them less buggy, but for now theyre functional.
 * Bots sometimes get stuck inder walkways and ladders when Bot Combat is turned OFF. When they stay stuck for too long, they teleport out so they can continue to run around the map.
-* If killcams are turned on for the host, after the killcam comes up, it removes some hud elements from the mod menu. This is why killcams were disabled for the host by default (this is toggeable in the menu).
+* If killcams are turned on for the host, after the killcam comes up, it removes some hud elements from the mod menu. IW4x/MW2 has a cap for how many HUD elements can be on screen, and killcams add a few. This is why killcams were disabled for the host by default (this is toggeable in the menu).
 ## Credits
 
 * **Rainy City (Rainy-City1212)** - IW4x .GSC trickshot menu development, edits, testing, organization, and release.
