@@ -19,7 +19,7 @@ Only use this menu in private matches, offline sessions, or dedicated servers wh
 * Rainy's IW4x Trickshot Mod Menu GSC files
 * Bot Warfare support files
 * Bot waypoint data
-* Modified Bot Warfare script installation mod 'z_svr_bots.iwd
+* Modified Bot Warfare script installation mod 'z_svr_bots.iwd'
 * Private match trickshot/lobby/bot tools
 
 ## Requirements
