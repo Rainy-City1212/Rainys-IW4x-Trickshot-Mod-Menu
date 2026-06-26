@@ -40,20 +40,13 @@ Only use this menu in private matches, offline sessions, or dedicated servers wh
     * z_svr_bots.iwd
 5. Paste those three items into your MW2/IW4x userraw folder.
     Example location: MW2 Folder/userraw/
-
->[!NOTE]
->If you do not see a userraw folder, launch IW4x and start a private match at least once. This should generate the folder. Also, do not copy the entire mod-files folder into userraw. Only copy the three items listed above: scripts, scriptdata, and z_svr_bots.iwd.
-
 6. Launch IW4x.
 7. Start a private match.
 8. If installed correctly, you should see the “Welcome to Rainy’s Mod Menu” text appear on screen.
 9. Open the menu with ADS + Melee.
 
-Userraw Folder Note
-
-If you do not see a userraw folder, launch IW4x and start a private match at least once. This should generate the folder.
-
-Do not copy the entire mod-files folder into userraw. Only copy the three items listed above: scripts, scriptdata, and z_svr_bots.iwd.
+>[!NOTE]
+>If you do not see a userraw folder, launch IW4x and start a private match at least once. This should generate the folder. Also, do not copy the entire mod-files folder into userraw. Only copy the three items listed above: scripts, scriptdata, and z_svr_bots.iwd.
 
 ![Rainy's IW4x .GSC Trickshot Mod Menu - Welcome Screen](./screenshots/welcome-screen.png)
 
