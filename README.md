@@ -1,8 +1,10 @@
 # Rainy's IW4x .GSC Trickshot Mod Menu
 
-A private-match IW4x/MW2 trickshot mod menu built around bot control, trickshot setup, lobby tools, and quality-of-life features.
+A private-match IW4x/MW2 .GSC trickshot mod menu built around bot control, trickshot setup, lobby tools, and quality-of-life features.
 
-This menu was made for private match trickshotting, bot-based practice, and offline/IW4x modding fun.
+Rainy's IW4x .GSC Trickshot Mod Menu was created for players who still enjoy private match trickshotting on MW2/IW4x and want a cleaner way to set up shots, control bots, manage lobbies, and experiment with classic mod menu features. The menu is designed primarily around controller use, bot-based practice, and private/offline sessions.
+
+This project includes the main trickshot menu, modified Bot Warfare support files, and waypoint data, to make bot-based private matches easier to get running. The goal of this release is not to gatekeep anything, but to give the IW4x trickshot/modding community something useful to play with, learn from, and build on.
 
 ![Rainy's IW4x .GSC Trickshot Mod Menu - Main Menu](./screenshots/main-menu.png)
 
