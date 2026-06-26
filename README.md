@@ -4,7 +4,7 @@ A private-match IW4x/MW2 trickshot mod menu built around bot control, trickshot 
 
 This menu was made for private match trickshotting, bot-based practice, and offline/IW4x modding fun.
 
-![Rainy's IW4x Trickshot Mod Menu main menu](screenshots/main-menu.png)
+![Rainy's IW4x .GSC Trickshot Mod Menu - Main Menu](./screenshots/main-menu.png)
 
 ## Disclaimer
 
