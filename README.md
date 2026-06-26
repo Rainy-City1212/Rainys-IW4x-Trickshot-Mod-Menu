@@ -116,7 +116,7 @@ Note: The menu itself does not automatically force keyboard binds. You may need 
 * Restart Game and End Game options
 * Weapon and camo menus
 * Wallbang/trickshot aimbot options for private use
-* + MANY MORE!
+* Additional quality-of-life tools, private match utilities, and smaller menu features not listed here
 
 ![Rainy's IW4x .GSC Trickshot Mod Menu - Main Menu](./screenshots/trickshot-mods.png)
 
