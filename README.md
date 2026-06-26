@@ -126,7 +126,7 @@ Note: The menu itself does not automatically force keyboard binds. You may need 
 * Some maps may crash with high bot counts.
 * If bots do not move, the map may be missing proper bot/waypoint support.
 * This menu is intended for private matches, not public cheating.
-* Bots climb ladders weirdly. I believe this is from some edits I did for "Bot Combat" in the mod files, but plan to fix this in future release.
+* Bots climb ladders weirdly. I believe this is from some edits I did for "Bot Combat" in the mod files, but plan to fix this in a future release.
 
 ## Credits
 
