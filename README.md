@@ -59,7 +59,7 @@ This menu was designed primarily with controller use in mind, but keyboard/mouse
 
 ## Quick Binds
 
-Some features can be triggered without opening the menu.
+Some features can be triggered without having to open the menu, called quick binds.
 
 | Action                   | Input                       |
 | ------------------------ | --------------------------- |
@@ -71,7 +71,7 @@ Some features can be triggered without opening the menu.
 | Toggle TS Aimbot         | Crouch + D-pad Up           |
 | Spawn Trickshot Platform | Crouch + D-pad Left         |
 
-Some quick binds only work when the related feature is enabled from the menu first.
+All quick binds should be enabled by default, however most are toggelable within the menu if you want them turned OFF.
 
 
 ### Controller Notes
