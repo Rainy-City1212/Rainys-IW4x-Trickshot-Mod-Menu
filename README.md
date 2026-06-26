@@ -34,15 +34,13 @@ Installation
 1. Download the latest release from the Releases section.
 2. Extract the downloaded .zip file.
 3. Open the extracted folder, then open the mod-files folder.
-4. Copy the following items from inside mod-files:
+4. Copy these three items from inside mod-files:
     * scripts
     * scriptdata
     * z_svr_bots.iwd
-5. Paste those items into your MW2/IW4x userraw folder.
-    Example:
-
-MW2 Folder/userraw/
-
+5. Paste those three items into your MW2/IW4x userraw folder.
+    Example location:
+    MW2 Folder/userraw/
     [!NOTE]
     If you do not see a userraw folder, launch IW4x and start a private match at least once. This should generate the folder.
 6. Launch IW4x.
