@@ -113,6 +113,8 @@ Note: The menu itself does not automatically force keyboard binds. You may need 
 * Weapon and camo menus
 * Wallbang/trickshot aimbot options for private use
 
+![Rainy's IW4x .GSC Trickshot Mod Menu - Main Menu](./screenshots/trickshot-mods.png)
+
 ## Known Notes/Bugs
 
 * Some custom maps may not support bots correctly.
@@ -121,13 +123,15 @@ Note: The menu itself does not automatically force keyboard binds. You may need 
 * This menu is intended for private matches, not public cheating.
 * Bots climb ladders weirdly. I believe this is from some edits I did for "Bot Combat" in the mod files, but plan to fix this in future release.
 
-## Credits
+Credits
+* Rainy City - IW4x menu development, edits, testing, organization, and release.
+* SyndiShanX - creator of the Synergy MW2 GSC Menu, which indirectly influenced the development of this menu. I learned a lot from studying Synergy’s structure, dvars, functions, and general IW4x/GSC implementation.
+* ineedbots Bot Warfare creator/community - bot system, waypoint/scriptdata foundation, and related bot support.
+* IW4x community - client, documentation, testing knowledge, and modding resources.
+License
 
-* Rainy / Rylee Cobb - IW4x menu development, edits, testing, organization, and release
-* Vapour Scripts - original menu resources, tutorials, and modding references
-* Bot Warfare creator/community - bot system, waypoint/scriptdata foundation, and related bot support
-* IW4x community - client, documentation, testing knowledge, and modding resources
+This project is released under the GNU General Public License v3.0.
 
-## License
+This menu is open source for learning, private match use, and community modding. You are free to study, modify, and build from this project as long as you follow the GPLv3 license terms and keep derivative work open source under a compatible license.
 
-This project is released for learning, private match use, and community modding. Do not sell this menu or claim the work of credited creators as your own.
+Do not sell this menu or claim the work of credited creators as your own.
